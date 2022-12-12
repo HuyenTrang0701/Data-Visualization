@@ -5,8 +5,8 @@ More detailed information could be found in the final report file.
 
 Please follow the link for data visualization:
 
-BHAT Anjana: https://app.powerbi.com/groups/me/reports/92d71b40-9466-4901-8885-a87c2c5a012d/ReportSection
+BHAT Anjana: https://app.powerbi.com/links/IAhkBfWngP?ctid=bc20447d-8952-4acd-83e4-5d68b5ece46f&pbi_source=linkShare&bookmarkGuid=868212b2-9b7c-42cc-9336-433580ac4fc9
 
-NGUYEN Huyen Trang: https://app.powerbi.com/groups/me/reports/c788fa3f-a6da-4b45-bbd7-8c54c7c4fe86/ReportSection
+NGUYEN Huyen Trang: https://app.powerbi.com/links/kPWFW2hhQ6?ctid=bc20447d-8952-4acd-83e4-5d68b5ece46f&pbi_source=linkShare
 
 If those links do not work, please download and read the data visualization in local PowerBI. 
